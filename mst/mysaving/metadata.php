@@ -9,7 +9,7 @@ $aModule = array(
     'description'  => array(
         'en'=>'Shows the percentage of saving in percent on the product detail page closed to the price information',
         'de'=>'Zeigt die Ersparnis bei Streichpreisen in Prozent auf der Produktdetailseite nahe der Preisinformation',
-        'ru'=>'Показывает процент экономии на странице продукта закрыто до информации о ценах.'
+        'ru'=>'Показывает экономию в процентах на странице продукта над конечной ценой.'
     ),
     'lang'         => 'en',
     'version'      => '0.9',
